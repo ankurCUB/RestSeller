@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96b031d4-5c6f-4680-8de7-f9315c10863c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/GRPCClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/RPCExceptions/SellerNotFoundAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/RPCExceptions/SellerNotFoundError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/RestSellerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/RestSellerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/SaleItemPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/SellersInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/ServerSideSellersInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/CreateAccountDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/LoginDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/NewPriceDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/PurchaseHistoryDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/SaleItemDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/SearchItemDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/SellerRatingDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/ShoppingCartDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rest_seller/dataModel/UserIDDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/Common.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/Credentials.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/GetSellerRating.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/SellerServices.proto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestSeller" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestSeller" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestSeller" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NnwGLJeYY213chxwglc3ydHPIR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;ansh2502@colorado.edu&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;bdastackoverflow&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;BDAStackOverflow&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;565268737568&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20230410_0002&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ankursharma/IdeaProjects/Assignment4/RestSeller&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b321cf8021d3b2d6cf6c9df773bfe84e&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/rest_seller" />
+      <recent name="$PROJECT_DIR$/src/main/proto" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rest_seller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.RestSeller [build]">
+    <configuration name="RestSeller [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RestSellerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RestSeller.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rest_seller.RestSellerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RestSeller [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96b031d4-5c6f-4680-8de7-f9315c10863c" name="Changes" comment="" />
+      <created>1680313059263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680313059263</updated>
+      <workItem from="1680313060761" duration="725000" />
+      <workItem from="1681167405228" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
